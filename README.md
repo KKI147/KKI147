@@ -1,7 +1,7 @@
 <div>
 😄 I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
  <br>
-1. I have a lot of interest in thinking about new things and making them.
+1. I have a lot of interest in thinking about new things and making them,
  <br>
 2. To overcome the limitations of learning or experience,
  <br>
