@@ -8,5 +8,7 @@
 <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
  </div>
- 
+ <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKI147&langs_count=8)](https://github.com/KKI147/github-readme-stats)
+ <br/>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKI147&show_icons=true&theme=radical)
