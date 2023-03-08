@@ -23,6 +23,6 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKI147&langs_count=8)](https://github.com/KKI147/github-readme-stats)
  
- <p/> 
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKI147&show_icons=true&theme=radical)
 
