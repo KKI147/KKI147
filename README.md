@@ -1,5 +1,5 @@
 <div>
-😄 I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
+👉 I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
  <br>
 1. I have a lot of interest in thinking about new things and making them,
  <br>
