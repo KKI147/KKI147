@@ -1,5 +1,5 @@
 <div>
- I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
+😄 I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
  <br>
 1. I have a lot of interest in thinking about new things and making them.
  <br>
@@ -20,7 +20,9 @@
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
  </div>
  
-
+<div>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKI147&langs_count=8)](https://github.com/KKI147/github-readme-stats)
-
+  </div>
+  <div>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKI147&show_icons=true&theme=radical)
+  </div>
