@@ -3,6 +3,7 @@
 I mainly use javascript, and I learn and use typescript to prevent code errors in advance and improve development productivity.
 By developing the functions required by users through various projects, we have improved our understanding of the area and importance of UX.
 </div>
+<br>
 
 <div>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
