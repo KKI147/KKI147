@@ -1,7 +1,7 @@
 <div>
-👉I'm Kim Kyung-il, a front-end developer based on React and Next.js.
-I mainly use javascript, and I learn and use typescript to prevent code errors in advance and improve development productivity.
-By developing the functions required by users through various projects, we have improved our understanding of the area and importance of UX.
+ 👉 <div>I'm Kim Kyung-il, a front-end developer based on React and Next.js.</div>
+ <div>I mainly use javascript, and I learn and use typescript to prevent code errors in advance and improve development productivity.</div>
+ <div>By developing the functions required by users through various projects, we have improved our understanding of the area and importance of UX.</div>
 </div>
 <br>
 
