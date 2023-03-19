@@ -1,13 +1,8 @@
 <div>
-👉 I use React.js, Next.js, JS, TS, Styled-components, and I am a developer of [__________].
- <br>
-1. I have a lot of interest in thinking about new things and making them,
- <br>
-2. To overcome the limitations of learning or experience,
- <br>
-3. Efforts are made to ensure that skills and experience contribute to the team's goals,
- <div>
- <br> 
+👉I'm Kim Kyung-il, a front-end developer based on React and Next.js.
+I mainly use javascript, and I learn and use typescript to prevent code errors in advance and improve development productivity.
+By developing the functions required by users through various projects, we have improved our understanding of the area and importance of UX.
+</div>
 
 <div>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
